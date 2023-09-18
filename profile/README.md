@@ -15,6 +15,9 @@
 #### [A-05-02_Authentication](https://github.com/OhGiraffers/A-05-02_Authentication.git)
 #### [A-05-01-03_SpringWebMVC](https://github.com/OhGiraffers/A-05-01-03-Spring-WebMVC)
 ---
+### A-05-02_Authentication
+#### [A-05-02-01_SpringSecurity](https://github.com/OhGiraffers/A-05-02-01_Spring-Security.git)
+---
 ### A-05-03_Persistence Framework
 #### [A-05-03-01_MyBatis](https://github.com/OhGiraffers/A-05-03-01_MyBatis.git)
 #### [A-05-03-02_MyBatisSpring](https://github.com/OhGiraffers/A-05-03-02_MyBatisSpring.git)
