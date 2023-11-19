@@ -12,7 +12,7 @@
 ## A-05_Framework
 ### A-05-01_Spring Framework
 #### [A-05-01-01_SpringCore](https://github.com/OhGiraffers/A-05-01-01_Spring-Core)
-#### [A-05-02_Authentication](https://github.com/OhGiraffers/A-05-02_Authentication.git)
+#### [A-05-01-02_Authentication](https://github.com/OhGiraffers/A-05-02_Authentication.git)
 #### [A-05-01-03_SpringWebMVC](https://github.com/OhGiraffers/A-05-01-03-Spring-WebMVC)
 ---
 ### A-05-02_Authentication
@@ -44,6 +44,7 @@
 
 # D_Database
 ## D-01_SQL
+#### [D-01-02_ORACLE](https://github.com/OhGiraffers/D-01-02_ORACLE)
 #### [D-01-03_MySQL](https://github.com/OhGiraffers/D-01-03_MySQL)
 
 # E_DevOps
