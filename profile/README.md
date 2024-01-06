@@ -48,5 +48,7 @@
 #### [D-01-03_MySQL](https://github.com/OhGiraffers/D-01-03_MySQL)
 
 # E_DevOps
+## E-02_Linux
+#### [E-02-01_ubuntu](https://github.com/OhGiraffers/E-02-01_ubuntu)
 ## E-03_Container
 #### [E-03-01_Docker](https://github.com/OhGiraffers/E-03-01_Docker)
