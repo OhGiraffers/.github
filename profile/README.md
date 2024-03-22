@@ -35,6 +35,7 @@
 #### [B-01-03 JavaScript(ES6)](https://github.com/OhGiraffers/B-01-03_JavaScript_ES6)
 ## B-02_Library
 #### [B-02-01 React.js](https://github.com/OhGiraffers/B-02-01_React.js.git)
+#### [B-02-02 Vue.js](https://github.com/OhGiraffers/B-02-02_Vuejs.git)
 
 # C_Web
 ## C-01_Publishing
